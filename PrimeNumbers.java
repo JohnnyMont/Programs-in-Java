@@ -1,4 +1,3 @@
-package johnny;
 import java.util.Scanner;
 public class PrimeNumbers { //Program to show the prime numbers until the number entered
     public static Scanner read = new Scanner(System.in);
